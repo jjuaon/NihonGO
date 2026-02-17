@@ -32,7 +32,7 @@ export default function Vocab5Page() {
   // ⌨️ Keyboard Controls
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
-      if (e.code === "Space") {
+      if (e.code === "Space" || e.code === "ArrowUp") {
         e.preventDefault();
         setFlipped((prev) => !prev);
       }
