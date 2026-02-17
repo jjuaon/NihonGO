@@ -7,6 +7,7 @@ A simple flashcard memo application to help you prepare for Japanese quizzes. Yo
 1. Clone this repository:
    ```bash
    git clone https://github.com/jjuaon/NihonGO.git
+   ```
    
 2. Navigate into the project directory:
   ```bash
