@@ -5,17 +5,17 @@ A simple flashcard memo application to help you prepare for Japanese quizzes. Yo
 ## Installation
 
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/jjuaon/NihonGO.git
-   ```
+```bash
+git clone https://github.com/jjuaon/NihonGO.git
+```
    
 2. Navigate into the project directory:
-   ```bash
-   cd .\NihonGO\
-   ```
+```bash
+cd .\NihonGO\
+```
 
 3.Install and run:
-   ```bash
-   npm install
-   npm run dev
-   ```
+```bash
+npm install
+npm run dev
+```
